@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan  2 17:15:46 2023
+Sana: 03-01-2023
+Mavzu: YANGI YILNI ANIQLASH
+Muallif: Arslonov Sunnatjon
 
-@author: User
+Muallif bilan bog'lanish: https:\\t.me\mohirdev22
+
 """
 
 from datetime import datetime
